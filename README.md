@@ -12,7 +12,7 @@ Many people find reinforcement learning methods are hard to reproduce. A paper b
 
 >Engstrom, Logan, et al. ["Implementation matters in deep policy gradients: A case study on ppo and trpo."](https://arxiv.org/pdf/2005.12729.pdf) arXiv preprint arXiv:2005.12729 (2020).
 
-For those who want to implement their own policy gradient methods, refer to this paper and to find some useful insights towards the difiiculty and importance of attributing performance gains in deep reinforcement learning.
+For those who want to implement their own policy gradient methods, please refer to this paper and find some useful insights towards the difiiculty and importance of attributing performance gains in deep reinforcement learning.
 
 ### Requirements
 

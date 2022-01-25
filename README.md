@@ -7,7 +7,7 @@ and
 
 >Schulman, John, et al. ["Proximal policy optimization algorithms."](https://arxiv.org/abs/1707.06347) arXiv preprint arXiv:1707.06347 (2017).
 
-## Code-level Optimazations
+## Code-level Optimizations
 Many people find reinforcement learning methods are hard to reproduce. A paper by MIT and Two Sigma in ICLR2020 investigated the consequences of code-level optimizations, which are known as algorithm augmentations found only in implementations or simply, "tricks", to the core algorithm:
 
 >Engstrom, Logan, et al. ["Implementation matters in deep policy gradients: A case study on ppo and trpo."](https://arxiv.org/pdf/2005.12729.pdf) arXiv preprint arXiv:2005.12729 (2020).
